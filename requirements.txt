@@ -1,7 +1,5 @@
 streamlit
-openai
-pillow
+groq
 python-dotenv
-replicate
+pillow
 pandas
-matplotlib
