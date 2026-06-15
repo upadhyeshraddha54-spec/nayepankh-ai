@@ -1,5 +1,5 @@
 streamlit
 groq
 python-dotenv
-pillow
-pandas
+Pillow
+huggingface_hub
